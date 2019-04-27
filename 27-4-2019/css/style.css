@@ -1,0 +1,16 @@
+
+ p.example1{
+
+ 	    border:2px solid;
+
+ 	    border-bottom-color: red; border-top-color: green;
+ 	    border-left-color: pink; border-right-color: blue;
+
+ }
+
+  p.example2{
+
+             border:2px solid;
+             border-color: green;
+
+  }
