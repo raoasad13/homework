@@ -1,0 +1,309 @@
+
+		body{
+
+			height: 100%;
+			margin: 0;
+			padding: 0;
+
+		}
+
+	.wrapper{
+
+		/*width: 60%;*/
+		min-height: 100%;
+		margin: 0 auto;
+		overflow: hidden;
+		background-color: #FFF8DC;
+ 
+	}
+
+	.ma{
+
+		margin-left: 230px;
+		margin-right: 230px;
+
+	}
+
+	.top{
+
+		font-family: 'Norican', cursive;
+		margin-top: 5px;
+		margin-bottom: 0;
+		font-size: 40px;
+
+	}
+	.img1{
+
+		height: 60px;
+
+	}
+
+	.pa{
+
+	    font-size: 20px;
+	   	margin-top: 0px;
+
+	
+	}
+
+	.topnav{
+
+		overflow: hidden;
+		position: relative;
+    	right: 172px;
+
+	}
+
+	.topnav a{
+
+		text-decoration: none;
+		float: right;
+		display: block;
+		text-align: center;
+		padding: 0px 10px;
+		color: black;
+		font-size: 23px;
+		
+	}
+
+	.topnav a:hover{
+
+			border-bottom: 3px solid red;
+
+	}
+
+	.img2{
+
+		width: 100%;
+		height: 3px;
+		margin-top: 0;
+
+	}
+
+	.img3{
+
+		width: 889px;
+		height: 195px;
+		border-radius: 7px;
+
+	}
+
+	.con{
+
+		position: relative;
+
+	}
+
+	.in{
+
+		position: absolute;
+		background-color: rgba(0, 0, 0, 0.6);
+		border-bottom-right-radius: 7px;
+/**/		top: 148px;
+		width: 889px;
+		height: 48px;
+
+	}
+
+	.tex{
+
+		color: white;
+		padding: 14px;
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 16px;
+
+*/
+	}
+
+	.bt{
+
+		border-radius: 4px;
+	 	background-color: #800000;
+		color: white;
+		border: 0;
+		padding: 3px;
+		position: absolute;
+		right: 15px;
+		top: 9px;
+		width: 103px;
+		height: 29px;
+		font-size: 15px;
+
+	}
+
+	article{
+
+		width: 601px;
+		font-size: 12px;
+		margin-right: 20px;
+
+	}
+
+	.img4{
+
+		width: 44px;
+		position: relative;
+		top: 10px;
+		left: 0px;
+
+	}
+
+	.asd{
+
+		width: 265px;
+		background-color: #808080;
+		float: right;
+		color: white;
+		margin-left: -10px;
+		border-radius: 5px;
+
+	}
+
+	.img5{
+
+		height: 126px;
+		width: 152px;
+		padding-left: 62px;
+		padding-top: 10px;
+
+	}
+
+	.img6{
+
+		position: relative;
+		float: right;
+		top: 98px;
+		right: 9px;
+
+	}
+
+	.pt{
+
+		padding-left: 15px;
+		font-size: 18px;
+		padding-top: 6px;
+		margin-bottom: 10px;
+		font-family: 'Merienda', cursive;
+
+	}
+
+	.asd1{
+
+		padding-left: 16px;
+		padding-right: 8px;
+		font-size: 16px;
+		font-family: 'Source Sans Pro', sans-serif;
+
+	}
+
+	.wd{
+
+		width: 40px;
+		padding-left: 4px;
+
+	}
+
+	.fb{
+
+		padding-left: 12px;
+		padding-bottom: 15px;
+
+	}
+
+	.pd{
+
+		margin-bottom: -11px;
+
+	}
+
+	.img7{
+
+		position: relative;
+		top: -7px;
+		left: 410px;
+		width: 60px;
+
+	}
+
+	.latw{
+
+    	font-size: 17px;
+    	margin-top: -13px;
+    	width: 136px;
+
+	}
+
+	.ase{
+
+		width: 322px;
+		float: right;
+		margin-top: -17px;
+
+	}
+
+	.img8{
+
+		width: 75px;
+
+	}
+
+	.myf{
+
+		width: 330px;
+		margin-top: -17px;
+		float: right;
+		font-size: 17px;
+
+	}
+
+	.pi{
+
+		text-align: center;
+
+	}
+
+	.tip{
+
+		font-size: 17px;
+
+	}
+
+	.u2{
+
+		width: 133px;
+		float: right;
+		position: relative;
+		top: -15px;
+		left: -5px; 
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 14px;
+
+	}
+
+	.u1{
+
+		width: 110px;
+		float: left;
+		position: relative;
+		top: -15px;
+		left: 0px;
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 14px;
+		list-style-image: url("images/external_link.png"); 
+	
+	}
+
+	.abd{
+
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 14px;
+
+	}
+
+	.h2{
+        font-family: 'Open Sans', sans-serif;
+         font-family: 'Oswald', sans-serif;
+
+		font-size: 25px;
+
+	}
